@@ -57,7 +57,7 @@ Edit
 
 ```bash
 # Step 1: Clone the repo
-git clone https://github.com/your-username/guessing_game.git
+git clone https://github.com/Mahas1234/guessing_game.git
 
 # Step 2: Move into the directory
 cd guessing_game
