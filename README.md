@@ -7,7 +7,7 @@ Guess the **secret number** between 1 and 100.
 But beware — the machine doesn't go easy on anyone. 😈
 
 > *Can you win the mind game?*
-
+Yo
 ---
 
 ## 🧠 Gameplay Demo
